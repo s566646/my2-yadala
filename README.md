@@ -8,3 +8,9 @@ My Favorite Activities to do :
 1. Skydiving
 2. Diving
 3. Drive
+
+### My Favaorite foods to eat ###
+Foods to Eat:
+* Crossaints
+* Pizza
+* Biryani
