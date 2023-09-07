@@ -20,12 +20,12 @@ Foods to Eat:
 ## My most recommended countries to visit
 
 Travelling have always been my way to relax myself,top 4 countries i recommend to travel are listed below:
-|**Countries**|**Why to go**       |**days to visit**|
+|**Sports**|**Reason for recommending**       |**Average play hrs**| 
 |-------------|-----------------|-----------------|
-|France       |visit Eiffel Tower     |7 days           |
-|Spain        |Visit Barcelona  |3 days           |
-|United States|visit Grand canyon     |4 days           |
-|Russia       |visit Moscow           |3 days           |
+|cricket       | Fitness    |  4      |
+|Badminton        |Fitness |8           |
+|Football|concentration    |6           |
+|Hockey      |concentration           |4          |
 
 ___
 ## My Favorite funny quotes
