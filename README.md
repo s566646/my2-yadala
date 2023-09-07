@@ -15,7 +15,7 @@ Foods to Eat:
 * Pizza
 * Biryani
 
-[Click here to known ABOUT ME](https://github.com/s566646/my2-yadala/blob/main/mypic.jpg)
+[Click here to known ABOUT ME](https://github.com/s566646/my2-yadala/blob/main/MyStats.md)
 
 ## My most recommended countries to visit
 
